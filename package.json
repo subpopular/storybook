@@ -1,7 +1,7 @@
 {
   "name": "storybook",
   "devDependencies": {
-    "babel-eslint": "^7.2.2",
+    "babel-eslint": "^7.2.3",
     "codecov": "^2.1.0",
     "enzyme": "^2.8.2",
     "enzyme-to-json": "^1.5.1",
